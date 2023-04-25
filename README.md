@@ -18,13 +18,13 @@ Apply Feature Transformation techniques to all the features of the data set
 ## STEP 4:
 Print the transformed features
 
-# PPROGRAM:
+# PROGRAM:
 ```
 Name: R VIGNESH
 
 Reg No.: 212222230172
-
-
+```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
